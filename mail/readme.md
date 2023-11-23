@@ -4,5 +4,4 @@ PROBLEMA: VERIFICARE CHE L'EMAIL AGGIUNTA DALL'UTENTE SIA GIA ESISTENTE OPPURE N
 2. Permettere all'utente di inserire l'email, creando un prompt;
 3. Creare un ciclo "for" per le email, e stampare;
 4. Creare una condizione affinchè l'email inserita dall'utente sia;
-    4.1 ? se non presente, stampare un messaggio di benvenuto;
-        : stampare un messaggio con "email già presente";
+    4.1 ? se presente, stampare un messaggio di benvenuto;
