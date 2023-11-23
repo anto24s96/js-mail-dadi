@@ -18,5 +18,5 @@ if(validation){
     alert("Ben tornato!");
 }
 else{
-    alert("Spiacenti, email non esistente");
+    alert("Spiacenti, e-mail non esistente");
 }
