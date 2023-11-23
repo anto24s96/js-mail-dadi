@@ -11,7 +11,7 @@ for(let i = 0; i < emails.length; i++){
         console.log("Ben tornato!");
     }
     else{
-        console.log("Email non esistente!");
+        console.log("e-mail non esistente!");
     }
 }
 
